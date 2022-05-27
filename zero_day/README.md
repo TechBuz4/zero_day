@@ -1,0 +1,1 @@
+This project talks about virtual machines. It teaches how to install git, vagrant, and ubuntu. it talks about git repository, how to initalise and crete a readme file. It alo teaches how touse tools like vi, emacs and so on.
